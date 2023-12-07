@@ -1,5 +1,5 @@
-Body {
-    Background-color : #E8C2CA;
+body {
+    background-color : #E8C2CA;
 }
 
 
