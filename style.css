@@ -1,6 +1,56 @@
 body {
     background-color : #E8C2CA;
 }
-  
 
+h1, h2 {
+    font-family: 'Seymour One', sans-serif;
+    text-transform: uppercase;
+    color: white;
+}
+
+h1{
+    font-size: 36px;
+}
+
+h2 {
+    font-size: 24px;
+}
+
+h3 {
+    font-family: 'Seymour One', sans-serif;
+    font-size: 20px;
+    color: white;
+}
+
+p {
+    font-family: 'Courier Prime', monospace;
+    font-size: 18px;
+    color: white;
+}
+
+/* masthead styling */
+.masthead {
+    text-align: center;
+    background-color: #D1B3C4;
+    padding: 8px 0;
+}
+
+
+/* TODO: align searchbar inline/reorder HTML for search  */
+.sectionSearch {
+    text-align: right;
+    margin-right: 10px;
+}
+
+.fas {
+    color: white;
+}
+
+
+/* CONTENT STYLING */
+.content-headings{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
 
